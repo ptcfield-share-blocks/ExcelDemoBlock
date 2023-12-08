@@ -13,7 +13,7 @@ Another use case is to read Excel files to ingest bussines data exported by 3rd 
 Excel, reports
 
 # Authors
-Madalin Costache - macostache@ptc.com
+Madalin Costache (Romania CoE) - macostache@ptc.com
 
 # Disclaimer
 By downloading this software, the user acknowledges that it is unsupported, not reviewed for security purposes, and that the user assumes all risk for running it.
