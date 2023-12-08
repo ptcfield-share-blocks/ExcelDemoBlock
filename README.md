@@ -1,18 +1,19 @@
-# ExcelDemoBlock
-Block that shows how to use the Excel Thingworx extension
+# Overview
+Block that shows how to use the related Excel Thingworx extension.
 
 The block contains services that show how to us the relates Excel extension to create Excel files out of IOT data and how to read Excel files for import purposes. 
 Review the block UI to see how examples are demonstrated and then look in composer to see how the demo is built to inspire and take code into your Thingworx projects. 
 
-The most obvious use case to use this extension is to generate automatic IOT reports in Excel (e.g. factory/line/asset metrics, service/maintennace metrics etc) and share them outside of thingworx. 
+The most obvious use case to use this extension is to generate automatic IOT reports in Excel (e.g. factory/line/asset metrics, service/maintenance metrics etc.) and share them outside of Thingworx (emails, downloads)
 
-Another use case is to read Excel files to ingest bussines data exported by 3rd party applications (ERP, SLM, CRM, MES etc.). 
+Another use case is to read Excel files to ingest business' data exported by 3rd party applications (ERP, SLM, CRM, MES etc.).
 
+This extension release includes services to write and style content in each cell in range of cells. The content can be styles with cell background color, text color, text font size, text font family, text orientation, test style - underline, bold, italic, strikethrough. 
 
 # Keywords
-Excel, reports
+Excel, reports, Apache POI
 
-# Authors
+# Excel Extension and Demo Block Authors
 Madalin Costache (Romania CoE) - macostache@ptc.com
 
 # Disclaimer
