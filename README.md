@@ -1,8 +1,8 @@
 # Overview
 Block that shows how to use the related Excel Thingworx extension.
 
-The block contains services that show how to us the relates Excel extension to create Excel files out of IOT data and how to read Excel files for import purposes. 
-Review the block UI to see how examples are demonstrated and then look in composer to see how the demo is built to inspire and take code into your Thingworx projects. 
+The block contains services that show us how to use the Excel extension to create Excel files out of IOT data and how to read Excel files for import purposes. 
+Review the block UI to see how examples are demonstrated and then look in Composer to see how the demo is built to inspire and take code into your Thingworx projects. 
 
 The most obvious use case to use this extension is to generate automatic IOT reports in Excel (e.g. factory/line/asset metrics, service/maintenance metrics etc.) and share them outside of Thingworx (emails, downloads)
 
